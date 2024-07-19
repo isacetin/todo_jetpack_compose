@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Application_TODO</string>
+    <string name="home_top_bar_title">Todo</string>
+    <string name="detail_top_bar_title">Edit Task</string>
+    <string name="updated_snackbar_completed">%1 ID\'li Taskınız Tamamlandı olarak işaretlenmiştir"</string>
+    <string name="updated_snackbar_not_completed">%1 ID\'li Taskınız Tamamlanmadı olarak işaretlenmiştir</string>
+</resources>
